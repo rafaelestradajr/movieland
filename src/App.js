@@ -3,7 +3,7 @@ import './App.css';
 import searchIcon from './search.svg';
 
 
-const API_URL ='http://www.omdbapi.com/?i=tt3896198&apikey=c3d2f9e5'
+const API_URL =
 
 
 const movie1={
@@ -54,4 +54,3 @@ const searchMovies = async (title) => {
 export default App;
 
 
-//http://www.omdbapi.com/?i=tt3896198&apikey=c3d2f9e5
